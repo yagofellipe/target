@@ -1,0 +1,7 @@
+1. Ligue o primeiro e o segundo disjuntores e aguarde alguns minutos.
+
+2. Desligue o segundo disjuntor.
+
+3. Vá até o cômodo com as lâmpadas e verifique qual delas está ligada. Esta é a lâmpada conectada ao primeiro disjuntor.
+
+4. Verifique as outras duas lâmpadas. A que estiver ligada, mas com a luz baixa (diminuída), está conectada ao segundo disjuntor. A lâmpada que estiver apagada está conectada ao terceiro disjuntor.
